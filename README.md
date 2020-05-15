@@ -12,4 +12,3 @@ Therefore the Dockerfile uses golang:1.14-alpine as base.
 ## Issues
 
 Incase you encounter an issue or error, you can make a pull-request and try to fix it. 
- 
